@@ -4,6 +4,8 @@
 
 DialogosBootloader isn't just another piece of software; it's the heartbeat of a revolutionary operating system that's as bold and innovative as the community behind it. Crafted with the precision of a master watchmaker, this bootloader is your first step into a world where performance, graphics, and user experience converge to create something truly spectacular.
 
+This project is part of a parent project found here: https://github.com/NaXzyu/Dialogos
+
 ## Features That Will Make You Go "Wow!" 🌠
 
 - **Vulkan-Powered Graphics**: Get ready to be dazzled! Vulkan isn't just for games; it's the driving force behind our stunning visual experience.
